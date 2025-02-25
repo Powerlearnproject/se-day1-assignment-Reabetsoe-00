@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 Explain what software engineering is and discuss its importance in the technology industry.
-Answer : Software engineering is the processof designing,developing, testing and maintaining software applications.It is very important in the tech industry because it provides multiple structures approaches to designing, developing and maintaining scalable software solutions that effectively address complex problems across various industries, ultimately driving innovation and improving operational efficiency in modern society. 
+Answer : Software engineering is the process of designing,developing, testing and maintaining software applications.It is very important in the tech industry because it provides multiple structures approaches to designing, developing and maintaining scalable software solutions that effectively address complex problems across various industries, ultimately driving innovation and improving operational efficiency in modern society. 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
