@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Answer : Software engineering is the processof designing,developing, testing and maintaining software applications.It is very important in the tech industry because it provides multiple structures approaches to designing, developing and maintaining scalable software solutions that effectively address complex problems across various industries, ultimately driving innovation and improving operational efficiency in modern society. 
 
@@ -38,7 +37,14 @@ There may be unique issues that come up and need to be addressed. These customer
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Agile (Mobile app development):
+Flexibility: The team can quickly adjust features based on user feedback received during each iteration. 
+Collaboration: Designers, developers, and testers work together closely to deliver functional app pieces in short sprints. 
+Continuous improvement: Each iteration aims to refine the app based on feedback and learnings. 
+Waterfall (Industrial machine building):
+Structured phases: Each stage like design, procurement, assembly, and testing is completed sequentially with detailed documentation. 
+Predictability: The project timeline and deliverables are well-defined with minimal room for major changes mid-project. 
+Detailed planning: Thorough upfront planning is crucial to ensure all aspects of the machine are considered before moving to the next phase. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 =Software Developer : The developer is responsible for writing the code and developing the entire software product. Aside from coding, a software developer is responsible for sending updates to the project manager and working closely with other team members, including the designer and QA engineer. 
@@ -54,7 +60,6 @@ e.g Visual Studio Code
 
 =The Version Control System helps manage the source code for the software team by keeping track of all the code modifications.
 e.g Git and Github
-
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -85,10 +90,7 @@ Importance:
 Provides a final quality check from the user's perspective, ensuring the software is usable and fulfills their needs before release.
 
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 -Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs. 
 -Even though generative AI attempts to mimic humans, it requires detailed instructions to create high-quality and relevant output.
